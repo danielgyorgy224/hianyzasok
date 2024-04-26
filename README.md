@@ -1,4 +1,6 @@
 A hianyzasok.txt egy négyhetes időszak egyes napjain mutatja a 11.tc osztály tanulóinak hiányzásait: például a második hét keddjén három fő hiányzott
+
+
 listák listája
 [[3, 4, 0, 0, 1], [2, 3, 0, 0, 0], [4, 3, 2, 3, 4], [0, 0, 1, 0, 0]]
 
